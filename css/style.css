@@ -1,0 +1,125 @@
+.nav-pills{
+font-family: Lobster;
+font-size: 1.7em;
+background-color: Transparent;
+margin-bottom: 10%;
+}
+
+body{
+  background-color: white;
+  font-family: Lobster;
+  color: black;
+}
+
+h1{
+  padding: 0;
+  margin-top: 0px;
+  font-size: 5.0em;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#twitterIcon{
+  color: rgb(0,172,237);
+}
+
+#githubIcon{
+  color: rgb(3,3,3);
+}
+#facebookIcon{
+  color: rgb(59,89,163);
+}
+#linkedInIcon{
+  color: rgb(0,127,178);
+}
+
+.block{
+  background: white;
+  opacity: .6;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.block2{
+  background: white;
+  opacity: .6;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 5%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn-default {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: aqua;
+    font-size: 1.7em;
+}
+.pageOne{
+  background: url("http://unsplash.com/photos/6g0KJWnBhxg/download?force=true");
+  background-size: cover;
+  height:700px;
+
+}
+
+.pageTwo{
+  background: url("http://unsplash.com/photos/kZvmEpyfiJs/download?force=true");
+  background-size: cover;;
+  height: 700px;
+}
+.contentLeftTwo{
+  margin-top: 10%;
+}
+p{
+  font-size: 1.5em;
+}
+.contentRightTwo{
+  margin-top: 15%;
+}
+.me{
+  height: 360px;
+}
+
+.pageThree{
+  background: url("http://unsplash.com/photos/jLwVAUtLOAQ/download?force=true");
+  background-size:cover;
+  height: 700px;
+
+}
+
+.block3{
+  background: white;
+  opacity: .6;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 5px;
+}
+#slide{
+  margin-top: 5%;
+}
+.paddingTop{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.pageFour{
+  background: url("http://unsplash.com/photos/RYyr-k3Ysqg/download?force=true");
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 700px;
+}
